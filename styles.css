@@ -36,7 +36,7 @@ body {
 /* Latest News styling */
 .latest-news-section {
   flex: 1;
-  min-width: 200px;
+  min-width: 100px;
   max-width: 250px;
 }
 
@@ -44,14 +44,14 @@ body {
 .main-article {
   flex: 2;
   text-align: center;
-  min-width: 300px;
+  min-width: 100px;
 }
 
 /* Pictorial News styling */
 .pictorial-news-section {
   flex: 1;
-  min-width: 200px;
-  max-width: 250px;
+  min-width: 100px;
+  max-width: 150px;
   text-align: center;
 }
 
